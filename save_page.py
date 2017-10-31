@@ -159,7 +159,7 @@ def write_csv(directory, filename):
     strings, the rows a list of dictionaries each mapping a fieldname to a
     cell-value.
     '''
-    fieldnames = ['title','date','summary','operator','passengers',
+    fieldnames = ['title','year','summary','operator','passengers',
                  'crew','fatalities','survivors']
     rows = all_data()
     os.makedirs(directory, exist_ok=True)

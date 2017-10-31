@@ -1,211 +1,211 @@
-title,date,summary,operator,passengers,crew,fatalities,survivors
-1919 Verona Caproni Ca.48 crash,,Possible structural failure,Caproni,12,2,14,0
-1920 Golders Green Handley Page O/400 crash,,,Handley Page Transport,6,2,4,4
-May 1923 Air Union Farman Goliath crash,,Structural failure,Air Union,4,2,6,0
-August 1923 Air Union Farman Goliath crash,,"Engine failure, passenger error, loss of control",Air Union,11,2,1,12
-1923 Daimler Airway de Havilland DH.34 crash,,"Pilot error, stall",Daimler Airway,3,2,5,0
-1933 United Airlines Boeing 247 mid-air explosion,,deliberate on-board explosion,United Air Lines,4,3,7,0
-1934 Swissair Tuttlingen accident,,In-flight wing separation in severe weather conditions,Swissair,9,3,12,0
-American Airlines Flight 1,,Undetermined,American Airlines,14,3,17,0
-Chicago and Southern Flight 4,,,Chicago and Southern Air Lines,6,2,8,0
-1938 Kyeema crash,,"Poor visibility, pilot error",Australian National Airways,14,4,18,0
-British European Airways Flight 530,,,British European Airways,10,5,3,12
-AOA Douglas DC-4 <i>Flagship New England</i>,,,American Overseas Airlines,31,8,39,0
-1946 KLM Douglas DC-3 Amsterdam accident,,"Poor weather, ",KLM,21,5,26,0
-TWA Flight 6963,,,Trans World Airlines,14,9,9,14
-Eastern Air Lines Flight 605,,Loss of control for reasons unknown,Eastern Air Lines,49,4,53,0
-Pan Am Flight 121,,,Pan American World Airways,26,10,15,21
-Pan Am Flight 923,,,Pan American World Airways,13,5,18,0
-Standard Air Lines Flight 897R,,,Standard Air Lines,44,4,35,13
-TWA Flight 903,,Forced landing due to catastrophic engine failure and fire,TWA,48,7,55,0
-National Airlines Flight 101,,"Propeller failure, ",National Airlines (1934–1980),59,4,33,34
-Air France Flight 152,,"Following engine rupture caused probably by propeller blade break inflight, the airliner made an emergency water landing and sank over an hour.",Air France,34,8,4,38
-BOAC Flight 781,,In-flight metal fatigue failure leading to explosive decompression and mid-air break-up.,British Overseas Airways Corporation,29,6,35,0
-Pan Am Flight 845/26,,"Engine separation, water ditching",Pan American World Airways,15,8,4,19
-El Al Flight 402,,Shot down,El Al,51,7,58,0
-Linea Aeropostal Venezolana Flight 253,,Loss of control after fire,Linea Aeropostal Venezolana,64,10,74,0
-Linea Aeropostal Venezolana Flight 253,,,Aeropostal Alas de Venezuela,18,7,25,0
-KLM Flight 844,,Pilot error or possible technical failure (undetermined),KLM,59,9,58,10
-Pan Am Flight 7,,"Crash, wreckage disappearance",Pan American World Airways,36,8,44,0
-Northeast Airlines Flight 258,,,Northeast Airlines,31,3,25,9
-1961 President Airlines Douglas DC-6 crash,,"Possible pilot error due to instrument failure and bad weather, causing a loss of control",Aircraft registration,77,6,83,0
-1961 Ndola United Nations DC-6 crash,,,Transair Sweden,11,5,16,0
-Aeroflot Flight 3,,Loss of control for unknown reasons,Aeroflot,79,7,86,0
-Civil Air Transport Flight 106,,Engine failure and loss of control,Civil Air Transport,52,5,57,0
-Aeroflot Flight 65,,Crew and ATC errors,Aircraft registration,47,19,21,45
-Lake Central Flight 527,,Loss of control and aircraft break-up after catastrophic propeller failure,Lake Central Airlines,35,3,38,0
-Varig Flight 837,,,Varig,71,19,56,39
-South African Airways Flight 406,,,South African Airways,20,5,25,0
-ČSA Flight 523,,"Failure to climb for undetermined reason, striking obstructions and impacting the ground.",CSA Ceskoslovenské Aerolinie,61,8,37,32
-Japan Airlines Flight 2,,Pilot error,Japan Airlines,96,11,0,107
-Scandinavian Airlines System Flight 933,,,Scandinavian Airlines System,36,9,15,30
-Prinair Flight 277,,Controller error / ,Prinair,17,2,19,0
-Viasa Flight 742,,"Faulty runway temperature sensors, overweight",Viasa,74,10,155,0
-Dominicana Flight 603,,Engine failure followed by loss of control,Dominicana de Aviación,97,5,102,0
-Swissair Flight 330,,Terrorist bombing,Swissair,38,9,47,0
-Aviogenex Flight 130,,Suffered hard landing due to ,Aviogenex,76,7,78,5
-BEA Flight 706,,"Explosive decompression, leading to structural failure and loss of control",British European Airways,55,8,63,0
-Pan Am Flight 841,,,Pan American World Airways,136,17,1,152
-Aeroflot Flight 217,,"Undetermined (possible crew incapacitation, lightning strike, or mechanical failure)",Aeroflot,164,10,174,0
+title,year,summary,operator,passengers,crew,fatalities,survivors
+1919 Verona Caproni Ca.48 crash,1919,Possible structural failure,Caproni,12,2,14,0
+1920 Golders Green Handley Page O/400 crash,1920,,Handley Page Transport,6,2,4,4
+May 1923 Air Union Farman Goliath crash,1923,Structural failure,Air Union,4,2,6,0
+August 1923 Air Union Farman Goliath crash,1923,"Engine failure, passenger error, loss of control",Air Union,11,2,1,12
+1923 Daimler Airway de Havilland DH.34 crash,1923,"Pilot error, stall",Daimler Airway,3,2,5,0
+1933 United Airlines Boeing 247 mid-air explosion,1933,deliberate on-board explosion,United Air Lines,4,3,7,0
+1934 Swissair Tuttlingen accident,1934,In-flight wing separation in severe weather conditions,Swissair,9,3,12,0
+American Airlines Flight 1,1936,Undetermined,American Airlines,14,3,17,0
+Chicago and Southern Flight 4,1936,,Chicago and Southern Air Lines,6,2,8,0
+1938 Kyeema crash,1938,"Poor visibility, pilot error",Australian National Airways,14,4,18,0
+British European Airways Flight 530,1946,,British European Airways,10,5,3,12
+AOA Douglas DC-4 <i>Flagship New England</i>,1946,,American Overseas Airlines,31,8,39,0
+1946 KLM Douglas DC-3 Amsterdam accident,1946,"Poor weather, ",KLM,21,5,26,0
+TWA Flight 6963,1946,,Trans World Airlines,14,9,9,14
+Eastern Air Lines Flight 605,1947,Loss of control for reasons unknown,Eastern Air Lines,49,4,53,0
+Pan Am Flight 121,1947,,Pan American World Airways,26,10,15,21
+Pan Am Flight 923,1947,,Pan American World Airways,13,5,18,0
+Standard Air Lines Flight 897R,1949,,Standard Air Lines,44,4,35,13
+TWA Flight 903,1950,Forced landing due to catastrophic engine failure and fire,TWA,48,7,55,0
+National Airlines Flight 101,1952,"Propeller failure, ",National Airlines (1934–1980),59,4,33,34
+Air France Flight 152,1953,"Following engine rupture caused probably by propeller blade break inflight, the airliner made an emergency water landing and sank over an hour.",Air France,34,8,4,38
+BOAC Flight 781,1954,In-flight metal fatigue failure leading to explosive decompression and mid-air break-up.,British Overseas Airways Corporation,29,6,35,0
+Pan Am Flight 845/26,1955,"Engine separation, water ditching",Pan American World Airways,15,8,4,19
+El Al Flight 402,1955,Shot down,El Al,51,7,58,0
+Linea Aeropostal Venezolana Flight 253,1956,Loss of control after fire,Linea Aeropostal Venezolana,64,10,74,0
+Linea Aeropostal Venezolana Flight 253,1956,,Aeropostal Alas de Venezuela,18,7,25,0
+KLM Flight 844,1957,Pilot error or possible technical failure (undetermined),KLM,59,9,58,10
+Pan Am Flight 7,1957,"Crash, wreckage disappearance",Pan American World Airways,36,8,44,0
+Northeast Airlines Flight 258,1958,,Northeast Airlines,31,3,25,9
+1961 President Airlines Douglas DC-6 crash,1961,"Possible pilot error due to instrument failure and bad weather, causing a loss of control",Aircraft registration,77,6,83,0
+1961 Ndola United Nations DC-6 crash,1961,,Transair Sweden,11,5,16,0
+Aeroflot Flight 3,1962,Loss of control for unknown reasons,Aeroflot,79,7,86,0
+Civil Air Transport Flight 106,1964,Engine failure and loss of control,Civil Air Transport,52,5,57,0
+Aeroflot Flight 65,1966,Crew and ATC errors,Aircraft registration,47,19,21,45
+Lake Central Flight 527,1967,Loss of control and aircraft break-up after catastrophic propeller failure,Lake Central Airlines,35,3,38,0
+Varig Flight 837,1967,,Varig,71,19,56,39
+South African Airways Flight 406,1967,,South African Airways,20,5,25,0
+ČSA Flight 523,1965,"Failure to climb for undetermined reason, striking obstructions and impacting the ground.",CSA Ceskoslovenské Aerolinie,61,8,37,32
+Japan Airlines Flight 2,1968,Pilot error,Japan Airlines,96,11,0,107
+Scandinavian Airlines System Flight 933,1969,,Scandinavian Airlines System,36,9,15,30
+Prinair Flight 277,1969,Controller error / ,Prinair,17,2,19,0
+Viasa Flight 742,1969,"Faulty runway temperature sensors, overweight",Viasa,74,10,155,0
+Dominicana Flight 603,1970,Engine failure followed by loss of control,Dominicana de Aviación,97,5,102,0
+Swissair Flight 330,1970,Terrorist bombing,Swissair,38,9,47,0
+Aviogenex Flight 130,1971,Suffered hard landing due to ,Aviogenex,76,7,78,5
+BEA Flight 706,1971,"Explosive decompression, leading to structural failure and loss of control",British European Airways,55,8,63,0
+Pan Am Flight 841,1972,,Pan American World Airways,136,17,1,152
+Aeroflot Flight 217,1972,"Undetermined (possible crew incapacitation, lightning strike, or mechanical failure)",Aeroflot,164,10,174,0
 "1972 Chicago–O'Hare<br />
-runway collision",,,Delta Air Lines,41,4,10,35
-Eastern Air Lines Flight 401,,Pilot error; loss of situational awareness leading to ,Eastern Air Lines,163,13,101,75
-Japan Air Lines Flight 404,,,Japan Air Lines,118,22,1,106
-Texas International Airlines Flight 655,,,Texas International Airlines,8,3,11,0
-National Airlines Flight 27,,,National Airlines (NA),116,12,1,127
-Turkish Airlines Flight 301,,,Turkish Airlines,68,5,66,7
-1974 Sterling Airways Tehran Caravelle accident,,Starboard main landing gear collapsed during taxi due to structural failure,Sterling Airways,92,4,15,81
-Eastern Air Lines Flight 212,,,Eastern Air Lines,78,4,72,10
-Aeroflot Flight 3739,,crashed during takeoff,Aeroflot,104,10,24,90
-Aeroflot Flight 1802,,Loss of control,Aeroflot,46,6,52,0
-Aeroflot Flight 418,,Undetermined (possible radar failure),Aeroflot,42,4,46,0
-Aeroflot Flight 5003,,Pilot error,Aeroflot,92,6,77,15
-1978 LAV HS 748 accident,,Crashed after take-off with instrument problem,Línea Aeropostal Venezolana,43,4,47,0
-National Airlines Flight 193,,,National Airlines (NA),52,6,3,55
-Swissair Flight 316,,Runway overrun caused by ,Swissair,142,12,14,140
-Korean Air Lines Flight 015,,,Korean Air,206,20,15,211
-Aer Lingus flight 164,,,Aer Lingus,103,10,0,113
-Aeroflot Flight 498,,Crew error,Aeroflot,44,4,48,0
-Aeroflot Flight 343,,,Aeroflot,66,11,7,70
-Aeroflot Flight 601,,,Aeroflot,44,5,44,5
-Aeroflot Flight 3519,,"Uncontained engine failure, in-flight fire",Aeroflot,104,7,110,1
-Air India Flight 182,,Aviation ,Air India,307,22,329,0
-Air Lanka Flight 512,,Suicide bombing,Air Lanka,128,20,21,127
-Aeroflot Flight 6502,,Pilot negligence,Aeroflot,87,7,70,24
-American Eagle Flight 5452,,"Improper maintenance, pilot error",Executive Airlines,4,2,2,4
-PSA Flight 1771,,,Pacific Southwest Airlines,38,5,43,0
-Air France Flight 296,,"
+runway collision",1972,,Delta Air Lines,41,4,10,35
+Eastern Air Lines Flight 401,1972,Pilot error; loss of situational awareness leading to ,Eastern Air Lines,163,13,101,75
+Japan Air Lines Flight 404,1973,,Japan Air Lines,118,22,1,106
+Texas International Airlines Flight 655,1973,,Texas International Airlines,8,3,11,0
+National Airlines Flight 27,1973,,National Airlines (NA),116,12,1,127
+Turkish Airlines Flight 301,1974,,Turkish Airlines,68,5,66,7
+1974 Sterling Airways Tehran Caravelle accident,1974,Starboard main landing gear collapsed during taxi due to structural failure,Sterling Airways,92,4,15,81
+Eastern Air Lines Flight 212,1974,,Eastern Air Lines,78,4,72,10
+Aeroflot Flight 3739,1976,crashed during takeoff,Aeroflot,104,10,24,90
+Aeroflot Flight 1802,1976,Loss of control,Aeroflot,46,6,52,0
+Aeroflot Flight 418,1976,Undetermined (possible radar failure),Aeroflot,42,4,46,0
+Aeroflot Flight 5003,1977,Pilot error,Aeroflot,92,6,77,15
+1978 LAV HS 748 accident,1978,Crashed after take-off with instrument problem,Línea Aeropostal Venezolana,43,4,47,0
+National Airlines Flight 193,1978,,National Airlines (NA),52,6,3,55
+Swissair Flight 316,1979,Runway overrun caused by ,Swissair,142,12,14,140
+Korean Air Lines Flight 015,1980,,Korean Air,206,20,15,211
+Aer Lingus flight 164,1981,,Aer Lingus,103,10,0,113
+Aeroflot Flight 498,1981,Crew error,Aeroflot,44,4,48,0
+Aeroflot Flight 343,1982,,Aeroflot,66,11,7,70
+Aeroflot Flight 601,1983,,Aeroflot,44,5,44,5
+Aeroflot Flight 3519,1984,"Uncontained engine failure, in-flight fire",Aeroflot,104,7,110,1
+Air India Flight 182,1985,Aviation ,Air India,307,22,329,0
+Air Lanka Flight 512,1986,Suicide bombing,Air Lanka,128,20,21,127
+Aeroflot Flight 6502,1986,Pilot negligence,Aeroflot,87,7,70,24
+American Eagle Flight 5452,1987,"Improper maintenance, pilot error",Executive Airlines,4,2,2,4
+PSA Flight 1771,1987,,Pacific Southwest Airlines,38,5,43,0
+Air France Flight 296,1988,"
 ",Air France,130,6,3,133
-Pan Am Flight 103,,Terrorist bombing,Pan American World Airways,243,16,270,0
-United Airlines Flight 811,,,United Airlines,337,18,9,346
-United Airlines Flight 232,,,United Airlines,279,17,111,185
-Olympic Aviation Flight 545,,Pilot error,Olympic Aviation,31,3,34,0
+Pan Am Flight 103,1988,Terrorist bombing,Pan American World Airways,243,16,270,0
+United Airlines Flight 811,1989,,United Airlines,337,18,9,346
+United Airlines Flight 232,1989,,United Airlines,279,17,111,185
+Olympic Aviation Flight 545,1989,Pilot error,Olympic Aviation,31,3,34,0
 "Northwest Airlines<br />
-Flight 1482&#160;<b>·</b> Flight 299",,,Northwest Airlines,40,4,8,36
-1993 Tajik Air Yakovlev Yak-40 incident,,"Excess takeoff weight, ",Tajik Air,81,5,82,4
-Northwest Airlink Flight 5719,,,Express Airlines I,16,2,18,0
-Baikal Airlines Flight 130,,In-flight fire,Baikal Airlines,115,9,125,0
-Federal Express Flight 705,,Attempted ,FedEx Express,1,3,0,4
-Royal Air Maroc Flight 630,,,Royal Air Maroc,40,4,44,0
-USAir Flight 427,,,US Airways,127,5,132,0
-Bristow Flight 56C,,"Lightning strike, ",Bristow Helicopters,16,2,0,18
-TAROM Flight 371,,Mechanical failure followed by ,TAROM,50,10,60,0
-1996 Air Africa crash,,Runway overrun after failed takeoff,Moscow Airways,0,6,225,4
-ValuJet Airlines Flight 592,,"Accidental activation of poorly packaged dangerous cargo, leading to in-flight fire and loss of control",ValuJet Airlines,105,5,110,0
-Delta Air Lines Flight 1288,,Uncontained ,Delta Air Lines,137,5,2,140
-TWA Flight 800,,Fuel tank explosion,Trans World Airlines,212,18,230,0
-Aeroperú Flight 603,,Maintenance error; instrument failure due to tape on the static ports,Aeroperú,61,9,70,0
-Tajikistan Airlines Flight 3183,,,Tajikistan Airlines,79,7,85,1
-Philippine Airlines Flight 137,,Runway overrun caused by pilot error,Philippine Airlines,124,6,3,130
-PauknAir Flight 4101,,,PauknAir,34,4,38,0
-Crossair Flight LX498,,Pilot error,Crossair,7,3,10,0
-Alaska Airlines Flight 261,,,Alaska Airlines,83,5,88,0
-Southwest Airlines Flight 1455,,Overrun due to ,Southwest Airlines,137,5,0,142
-Air Philippines Flight 541,,,Air Philippines,124,7,131,0
-Hapag-Lloyd Flight 3378,,,Hapag-Lloyd Flug,143,8,0,151
-Air France Flight 4590,,,Continental Airlines,100,9,113,0
-Singapore Airlines Flight 006,,Crashed during takeoff on closed runway,Singapore Airlines,159,20,83,96
-Dirgantara Air Service Flight 3130,,Loss of control due to overloading and pilot's misperception,Dirgantara Air Service,17,1,0,18
+Flight 1482&#160;<b>·</b> Flight 299",1990,,Northwest Airlines,40,4,8,36
+1993 Tajik Air Yakovlev Yak-40 incident,1993,"Excess takeoff weight, ",Tajik Air,81,5,82,4
+Northwest Airlink Flight 5719,1993,,Express Airlines I,16,2,18,0
+Baikal Airlines Flight 130,1994,In-flight fire,Baikal Airlines,115,9,125,0
+Federal Express Flight 705,1994,Attempted ,FedEx Express,1,3,0,4
+Royal Air Maroc Flight 630,1994,,Royal Air Maroc,40,4,44,0
+USAir Flight 427,1994,,US Airways,127,5,132,0
+Bristow Flight 56C,1995,"Lightning strike, ",Bristow Helicopters,16,2,0,18
+TAROM Flight 371,1995,Mechanical failure followed by ,TAROM,50,10,60,0
+1996 Air Africa crash,1996,Runway overrun after failed takeoff,Moscow Airways,0,6,225,4
+ValuJet Airlines Flight 592,1996,"Accidental activation of poorly packaged dangerous cargo, leading to in-flight fire and loss of control",ValuJet Airlines,105,5,110,0
+Delta Air Lines Flight 1288,1996,Uncontained ,Delta Air Lines,137,5,2,140
+TWA Flight 800,1996,Fuel tank explosion,Trans World Airlines,212,18,230,0
+Aeroperú Flight 603,1996,Maintenance error; instrument failure due to tape on the static ports,Aeroperú,61,9,70,0
+Tajikistan Airlines Flight 3183,1997,,Tajikistan Airlines,79,7,85,1
+Philippine Airlines Flight 137,1998,Runway overrun caused by pilot error,Philippine Airlines,124,6,3,130
+PauknAir Flight 4101,1998,,PauknAir,34,4,38,0
+Crossair Flight LX498,2000,Pilot error,Crossair,7,3,10,0
+Alaska Airlines Flight 261,2000,,Alaska Airlines,83,5,88,0
+Southwest Airlines Flight 1455,2000,Overrun due to ,Southwest Airlines,137,5,0,142
+Air Philippines Flight 541,2000,,Air Philippines,124,7,131,0
+Hapag-Lloyd Flight 3378,2000,,Hapag-Lloyd Flug,143,8,0,151
+Air France Flight 4590,2000,,Continental Airlines,100,9,113,0
+Singapore Airlines Flight 006,2000,Crashed during takeoff on closed runway,Singapore Airlines,159,20,83,96
+Dirgantara Air Service Flight 3130,2000,Loss of control due to overloading and pilot's misperception,Dirgantara Air Service,17,1,0,18
 "2001 Japan Airlines mid-air incident<br />
-日本航空機駿河湾上空ニアミス事故",,"Near miss, ",Japan Airlines,411,16,0,427
-2001 Avjet Aspen crash,,,Aircraft registration,15,3,18,0
-American Airlines Flight 11,,,American Airlines,81,11,92,0
-United Airlines Flight 175,,,United Airlines,56,9,65,0
-American Airlines Flight 77,,,American Airlines,58,6,189,0
-United Airlines Flight 93,,,United Airlines,37,7,44,0
-Linate Airport disaster,,"Runway incursion, poor visibility due to heavy fog",Aircraft registration,104,6,110,0
-American Airlines Flight 587,,Crashed shortly after takeoff due to tail structure failure,American Airlines,251,9,265,0
-Crossair Flight 3597,,,Crossair,28,5,24,9
-Garuda Indonesia Flight 421,,,Garuda Indonesia,54,6,1,59
-TAME Flight 120,,,TAME,87,7,94,0
-China Airlines Flight 611,,In-flight break-up due to maintenance error &amp; ,China Airlines,206,19,225,0
+日本航空機駿河湾上空ニアミス事故",2001,"Near miss, ",Japan Airlines,411,16,0,427
+2001 Avjet Aspen crash,2001,,Aircraft registration,15,3,18,0
+American Airlines Flight 11,2001,,American Airlines,81,11,92,0
+United Airlines Flight 175,2001,,United Airlines,56,9,65,0
+American Airlines Flight 77,2001,,American Airlines,58,6,189,0
+United Airlines Flight 93,2001,,United Airlines,37,7,44,0
+Linate Airport disaster,2001,"Runway incursion, poor visibility due to heavy fog",Aircraft registration,104,6,110,0
+American Airlines Flight 587,2001,Crashed shortly after takeoff due to tail structure failure,American Airlines,251,9,265,0
+Crossair Flight 3597,2001,,Crossair,28,5,24,9
+Garuda Indonesia Flight 421,2002,,Garuda Indonesia,54,6,1,59
+TAME Flight 120,2002,,TAME,87,7,94,0
+China Airlines Flight 611,2002,In-flight break-up due to maintenance error &amp; ,China Airlines,206,19,225,0
 "Bashkirian Airlines Flight 2937<br />
-DHL Flight 611",,Collision caused by ,DHL International Aviation ME,60,9,69,0
-2002 Prestige Airlines Boeing 707 crash,,,Prestige Airlines (page does not exist),21,9,28,2
-Northwest Airlines Flight 85,,Rudder hardover due to metal fatigue,Northwest Airlines,386,18,0,404
-Air Midwest Flight 5481,,,Air Midwest,19,2,21,0
-Sudan Airways Flight 139,,Mechanical failure followed by ,Sudan Airways,106,11,117,0
-"<a href=""/wiki/European_Air_Transport"" class=""mw-redirect"" title=""European Air Transport"">European Air Transport</a> OO-DLL",,"Terrorist missile attack, attempted shootdown, loss of flight controls",European Air Transport,0,3,0,3
-FedEx Express Flight 647,,,FedEx Express,5,2,0,7
-Flash Airlines Flight 604,,"
+DHL Flight 611",2002,Collision caused by ,DHL International Aviation ME,60,9,69,0
+2002 Prestige Airlines Boeing 707 crash,2002,,Prestige Airlines (page does not exist),21,9,28,2
+Northwest Airlines Flight 85,2002,Rudder hardover due to metal fatigue,Northwest Airlines,386,18,0,404
+Air Midwest Flight 5481,2003,,Air Midwest,19,2,21,0
+Sudan Airways Flight 139,2003,Mechanical failure followed by ,Sudan Airways,106,11,117,0
+"<a href=""/wiki/European_Air_Transport"" class=""mw-redirect"" title=""European Air Transport"">European Air Transport</a> OO-DLL",2003,"Terrorist missile attack, attempted shootdown, loss of flight controls",European Air Transport,0,3,0,3
+FedEx Express Flight 647,2003,,FedEx Express,5,2,0,7
+Flash Airlines Flight 604,2004,"
 ",Flash Airlines,135,13,148,0
-Pinnacle Airlines Flight 3701,,"Engine flameout, ",Pinnacle Airlines,0,2,2,0
-Lion Air Flight 538,,Runway ,Lion Air,146,7,25,128
-Air Transat Flight 961,,,Air Transat,262,9,0,271
-2005 Logan Airport runway incursion,,,US Airways,260,12,0,272
-2005 Logan Airport runway incursion,,,US Airways,260,12,0,272
-Air France Flight 358,,"Weather-induced runway overshoot, lack of company procedures, and ",Air France,297,12,0,309
-Helios Airways Flight 522,,Loss of ,Helios Airways,115,6,121,0
-JetBlue Flight 292,,Front ,JetBlue Airways,140,6,0,146
-Bellview Airlines Flight 210,,Undetermined,Bellview Airlines,111,6,117,0
-Southwest Airlines Flight 1248,,Runway overrun in snowstorm,Southwest Airlines,98,5,1,103
-Sosoliso Airlines Flight 1145,,Missed approach due to pilot error aggravated by windshear.,Sosoliso Airlines,103,7,108,2
-Chalk's Ocean Airways Flight 101,,In-flight structural failure due to ,Chalk's International Airlines,18,2,20,0
-Armavia Flight 967,,,Armavia,105,8,113,0
-Pakistan International Airlines Flight 688,,Engine failure which led to ,Aircraft registration,41,4,45,0
-Pulkovo Aviation Enterprise Flight 612,,,Pulkovo Aviation Enterprise,160,10,170,0
-Comair Flight 5191,,,Comair,47,3,49,1
-Turkish Airlines Flight 1476,,,Turkish Airlines,107,6,0,113
-Aviation Development Company Flight 53,,,ADC Airlines,105,5,96,9
-Adam Air Flight 574,,,Adam Air,96,6,102,0
-2007 Balad aircraft crash,,Cause in dispute,AerianTur-M,30,5,34,1
-Air West Flight 612,,Hijacking,Air West,95,8,0,103
-UTair Flight 471,,Structural failure during an emergency landing,UTair Aviation,50,7,6,51
-2007 Mogadishu TransAVIAexport Airlines Il-76 crash,,Suspected shootdown,TransAVIAexport Airlines,4,7,11,0
-PMTair Flight 241,,"Inconclusive, ",PMTair,16,6,22,0
-TAM Airlines Flight 3054,,Runway ,TAM Airlines,180,7,199,0
-2007 Africa One Antonov An-26 crash,,Under investigation,Malift Air,17,5,51,1
-TAROM Flight 3107,,Ground collision with maintenance car in fog,TAROM,117,6,0,123
-British Airways Flight 38,,,British Airways,136,16,0,152
-Belavia Flight 1834,,Wing contamination (ice) leading to loss of lift and stall after takeoff,Belavia,18,3,0,21
-Benzdorp An-28 crash,,CFIT,Blue Wing Airlines,17,2,19,0
-Qantas Flight 30,,In-flight structural damage,Qantas,346,19,0,365
-Iran Aseman Airlines Flight 6895,,,Itek Air,83,7,68,22
-Continental Airlines Flight 1404,,,Continental Airlines,110,5,0,115
-2009 Manaus Aerotáxi crash,,Overloading,Manaus Aerotáxi,26,2,24,4
-Colgan Air Flight 3407,,Stalled during landing approach; crashed into a house,Colgan Air,45,4,50,0
-Turkish Airlines Flight 1951,,,Turkish Airlines,128,7,9,126
-Caspian Airlines Flight 7908,,Mechanical failure due to bird strike,Caspian Airlines,153,15,168,0
-Airlines PNG Flight 4684,,,Airlines PNG,11,2,13,0
-Azza Transport Flight 2241,,"Engine cowl separation, pilot error, stall, loss of control",Azza Transport,3,3,6,0
-Henan Airlines Flight 8387,,,Henan Airlines,91,5,44,52
-"Filair flight, number unknown",,Weight imbalance due to escaped crocodile,Filair,18,3,20,1
-Zalingei Tarco Airlines Antonov An-24 crash,,Under investigation,Tarco Airlines,36,6,1,32
-Dagestan Airlines Flight 372,,"Crew error, fuel starvation",Dagestan Airlines,160,8,2,166
-Southwest Airlines Flight 812,,In-flight structural failure leading to,Southwest Airlines,117,5,0,123
-Lokomotiv Yaroslavl air disaster,,Runway overrun and ,Yak-Service,37,8,44,1
-Sita Air Flight 601,,"Excessive drag, engine failure (cause of failure undetermined)",Sita Air,16,3,19,0
-2012 Aéro-Service Ilyushin Il-76T crash,,Clipped trees and crashed during final approach,Air Highnesses (page does not exist),1,5,32,0
-Merpati Nusantara Airlines Flight 6517,,"Pilot error, wrong thrust position during landing led to structural failure",Merpati Nusantara Airlines,46,4,0,50
-Asiana Airlines Flight 214,,Impact with ,Asiana Airlines,291,16,3,304
-TransAsia Airways Flight 222,,Controlled flight into terrain; pilot error,TransAsia Airways,54,4,48,10
-Sepahan Airlines Flight 5915,,Crashed shortly after takeoff due to reported ,Sepahan Airlines,40,8,39,9
-Indonesia AirAsia Flight 8501,,,Indonesia AirAsia,156,6,162,0
-TransAsia Airways Flight 235,,Crashed soon after takeoff due to ,TransAsia Airways,53,5,43,15
-Germanwings Flight 9525,,,Germanwings,144,6,150,0
-Turkish Airlines Flight 1878,,"Hard landing during first attempt, gear collapse and runway excursion during second attempt",Turkish Airlines,97,5,0,102
-Trigana Air Service Flight 267,,"Crashed into the Papuan jungle while on approach , under investigation",Trigana Air Service,49,5,54,0
-British Airways Flight 2276,,Aircraft fire following uncontained engine failure,British Airways,157,13,0,170
-Aviastar Flight 7503,,,Aviastar (Indonesia),7,3,10,0
-Dynamic Airways Flight 405,,Aircraft fire following suspected fuel leak. Under investigation.,Dynamic Airways,90,11,0,101
-Metrojet Flight 9268,,"Under investigation, suspected bombing",Metrojet (Russian airline),217,7,224,0
-2015 Juba An-12 crash,,"Under investigation, overloading suspected",Aircraft registration,13,6,37,2
-Daallo Airlines Flight 159,,Bomb detonated in a ,Daallo Airlines,74,7,1,80
-Tara Air Flight 193,,Under Investigation,Tara Air,20,3,23,0
-2016 Air Kasthamandap crash,,Under Investigation,List of airlines of Nepal,9,2,2,9
-Flydubai Flight 981,,"Impacted runway during second attempted go-around, under investigation",Flydubai,55,7,62,0
-EgyptAir Flight 181,,,EgyptAir,56,7,0,63
-2016 Sunbird Aviation crash,,Improper loading which led to a stall,Aircraft registration,11,1,12,0
-EgyptAir Flight 804,,"Crashed, in-flight fire, under investigation",EgyptAir,56,10,66,0
-Singapore Airlines Flight 368,,Aircraft fire following oil leak,Singapore Airlines,222,19,0,241
-Emirates Flight 521,,"Crashed on landing, under investigation",Emirates (airline),282,18,1,300
-ASL Hungary Flight 7332,,Runway overrun,ASL Airlines Hungary,0,2,0,2
-Southwest Airlines Flight 3472,,,Southwest Airlines,99,5,0,104
-American Airlines Flight 383,,,American Airlines,161,9,0,170
-LaMia Flight 2933,,,LaMia,73,4,71,6
-Pakistan International Airlines Flight 661,,"Engine failure issues, investigation ongoing",Pakistan International Airlines,42,5,47,0
-2017 South Supreme Airlines Antonov An-26 crash,,In-Flight-Fire under investigation,South Supreme Airlines,40,5,0,45
-Peruvian Airlines Flight 112,,"Landing gear collapse, under investigation",Peruvian Airlines,141,9,0,150
-Air Canada Flight 759,,Near collision on final approach,Air Canada,135,5,0,140
-Air France Flight 66,,,Air France,497,24,0,521
-Air France Flight 66,,,Air France,497,24,0,521
+Pinnacle Airlines Flight 3701,2004,"Engine flameout, ",Pinnacle Airlines,0,2,2,0
+Lion Air Flight 538,2004,Runway ,Lion Air,146,7,25,128
+Air Transat Flight 961,2005,,Air Transat,262,9,0,271
+2005 Logan Airport runway incursion,2005,,US Airways,260,12,0,272
+2005 Logan Airport runway incursion,2005,,US Airways,260,12,0,272
+Air France Flight 358,2005,"Weather-induced runway overshoot, lack of company procedures, and ",Air France,297,12,0,309
+Helios Airways Flight 522,2005,Loss of ,Helios Airways,115,6,121,0
+JetBlue Flight 292,2005,Front ,JetBlue Airways,140,6,0,146
+Bellview Airlines Flight 210,2005,Undetermined,Bellview Airlines,111,6,117,0
+Southwest Airlines Flight 1248,2005,Runway overrun in snowstorm,Southwest Airlines,98,5,1,103
+Sosoliso Airlines Flight 1145,2005,Missed approach due to pilot error aggravated by windshear.,Sosoliso Airlines,103,7,108,2
+Chalk's Ocean Airways Flight 101,2005,In-flight structural failure due to ,Chalk's International Airlines,18,2,20,0
+Armavia Flight 967,2006,,Armavia,105,8,113,0
+Pakistan International Airlines Flight 688,2006,Engine failure which led to ,Aircraft registration,41,4,45,0
+Pulkovo Aviation Enterprise Flight 612,2006,,Pulkovo Aviation Enterprise,160,10,170,0
+Comair Flight 5191,2006,,Comair,47,3,49,1
+Turkish Airlines Flight 1476,2006,,Turkish Airlines,107,6,0,113
+Aviation Development Company Flight 53,2006,,ADC Airlines,105,5,96,9
+Adam Air Flight 574,2007,,Adam Air,96,6,102,0
+2007 Balad aircraft crash,2007,Cause in dispute,AerianTur-M,30,5,34,1
+Air West Flight 612,2007,Hijacking,Air West,95,8,0,103
+UTair Flight 471,2007,Structural failure during an emergency landing,UTair Aviation,50,7,6,51
+2007 Mogadishu TransAVIAexport Airlines Il-76 crash,2007,Suspected shootdown,TransAVIAexport Airlines,4,7,11,0
+PMTair Flight 241,2007,"Inconclusive, ",PMTair,16,6,22,0
+TAM Airlines Flight 3054,2007,Runway ,TAM Airlines,180,7,199,0
+2007 Africa One Antonov An-26 crash,2007,Under investigation,Malift Air,17,5,51,1
+TAROM Flight 3107,2007,Ground collision with maintenance car in fog,TAROM,117,6,0,123
+British Airways Flight 38,2008,,British Airways,136,16,0,152
+Belavia Flight 1834,2008,Wing contamination (ice) leading to loss of lift and stall after takeoff,Belavia,18,3,0,21
+Benzdorp An-28 crash,2008,CFIT,Blue Wing Airlines,17,2,19,0
+Qantas Flight 30,2008,In-flight structural damage,Qantas,346,19,0,365
+Iran Aseman Airlines Flight 6895,2008,,Itek Air,83,7,68,22
+Continental Airlines Flight 1404,2008,,Continental Airlines,110,5,0,115
+2009 Manaus Aerotáxi crash,2009,Overloading,Manaus Aerotáxi,26,2,24,4
+Colgan Air Flight 3407,2009,Stalled during landing approach; crashed into a house,Colgan Air,45,4,50,0
+Turkish Airlines Flight 1951,2009,,Turkish Airlines,128,7,9,126
+Caspian Airlines Flight 7908,2009,Mechanical failure due to bird strike,Caspian Airlines,153,15,168,0
+Airlines PNG Flight 4684,2009,,Airlines PNG,11,2,13,0
+Azza Transport Flight 2241,2009,"Engine cowl separation, pilot error, stall, loss of control",Azza Transport,3,3,6,0
+Henan Airlines Flight 8387,2010,,Henan Airlines,91,5,44,52
+"Filair flight, number unknown",2010,Weight imbalance due to escaped crocodile,Filair,18,3,20,1
+Zalingei Tarco Airlines Antonov An-24 crash,2010,Under investigation,Tarco Airlines,36,6,1,32
+Dagestan Airlines Flight 372,2010,"Crew error, fuel starvation",Dagestan Airlines,160,8,2,166
+Southwest Airlines Flight 812,2011,In-flight structural failure leading to,Southwest Airlines,117,5,0,123
+Lokomotiv Yaroslavl air disaster,2011,Runway overrun and ,Yak-Service,37,8,44,1
+Sita Air Flight 601,2012,"Excessive drag, engine failure (cause of failure undetermined)",Sita Air,16,3,19,0
+2012 Aéro-Service Ilyushin Il-76T crash,2012,Clipped trees and crashed during final approach,Air Highnesses (page does not exist),1,5,32,0
+Merpati Nusantara Airlines Flight 6517,2013,"Pilot error, wrong thrust position during landing led to structural failure",Merpati Nusantara Airlines,46,4,0,50
+Asiana Airlines Flight 214,2013,Impact with ,Asiana Airlines,291,16,3,304
+TransAsia Airways Flight 222,2014,Controlled flight into terrain; pilot error,TransAsia Airways,54,4,48,10
+Sepahan Airlines Flight 5915,2014,Crashed shortly after takeoff due to reported ,Sepahan Airlines,40,8,39,9
+Indonesia AirAsia Flight 8501,2014,,Indonesia AirAsia,156,6,162,0
+TransAsia Airways Flight 235,2015,Crashed soon after takeoff due to ,TransAsia Airways,53,5,43,15
+Germanwings Flight 9525,2015,,Germanwings,144,6,150,0
+Turkish Airlines Flight 1878,2015,"Hard landing during first attempt, gear collapse and runway excursion during second attempt",Turkish Airlines,97,5,0,102
+Trigana Air Service Flight 267,2015,"Crashed into the Papuan jungle while on approach , under investigation",Trigana Air Service,49,5,54,0
+British Airways Flight 2276,2015,Aircraft fire following uncontained engine failure,British Airways,157,13,0,170
+Aviastar Flight 7503,2015,,Aviastar (Indonesia),7,3,10,0
+Dynamic Airways Flight 405,2015,Aircraft fire following suspected fuel leak. Under investigation.,Dynamic Airways,90,11,0,101
+Metrojet Flight 9268,2015,"Under investigation, suspected bombing",Metrojet (Russian airline),217,7,224,0
+2015 Juba An-12 crash,2015,"Under investigation, overloading suspected",Aircraft registration,13,6,37,2
+Daallo Airlines Flight 159,2016,Bomb detonated in a ,Daallo Airlines,74,7,1,80
+Tara Air Flight 193,2016,Under Investigation,Tara Air,20,3,23,0
+2016 Air Kasthamandap crash,2016,Under Investigation,List of airlines of Nepal,9,2,2,9
+Flydubai Flight 981,2016,"Impacted runway during second attempted go-around, under investigation",Flydubai,55,7,62,0
+EgyptAir Flight 181,2016,,EgyptAir,56,7,0,63
+2016 Sunbird Aviation crash,2016,Improper loading which led to a stall,Aircraft registration,11,1,12,0
+EgyptAir Flight 804,2016,"Crashed, in-flight fire, under investigation",EgyptAir,56,10,66,0
+Singapore Airlines Flight 368,2016,Aircraft fire following oil leak,Singapore Airlines,222,19,0,241
+Emirates Flight 521,2016,"Crashed on landing, under investigation",Emirates (airline),282,18,1,300
+ASL Hungary Flight 7332,2016,Runway overrun,ASL Airlines Hungary,0,2,0,2
+Southwest Airlines Flight 3472,2016,,Southwest Airlines,99,5,0,104
+American Airlines Flight 383,2016,,American Airlines,161,9,0,170
+LaMia Flight 2933,2016,,LaMia,73,4,71,6
+Pakistan International Airlines Flight 661,2016,"Engine failure issues, investigation ongoing",Pakistan International Airlines,42,5,47,0
+2017 South Supreme Airlines Antonov An-26 crash,2017,In-Flight-Fire under investigation,South Supreme Airlines,40,5,0,45
+Peruvian Airlines Flight 112,2017,"Landing gear collapse, under investigation",Peruvian Airlines,141,9,0,150
+Air Canada Flight 759,2017,Near collision on final approach,Air Canada,135,5,0,140
+Air France Flight 66,2017,,Air France,497,24,0,521
+Air France Flight 66,2017,,Air France,497,24,0,521
