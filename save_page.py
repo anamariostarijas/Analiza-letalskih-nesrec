@@ -5,6 +5,7 @@ import requests
 import csv
 #pip install more-itertools
 from itertools import chain
+import zipfile
 
 frontpage_basename = 'plane_crashes.html'
 frontpage_url = 'https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft'
@@ -92,12 +93,11 @@ def data_from_one_url(plane_crash_block):
     '''takes a string and extracts date, summary, operator of the plane, number of passengers, crew members, fatalities and survivors of
     one plane crash'''
     no_match = 0   
-    rx = re.compile(r'style="padding-bottom:0.3em;">(?P<title>.*?)</caption>'
-                    
+    rx = re.compile(r'style="padding-bottom:0.3em;">(?P<title>.*?)</caption>'   
                     r'.*?'
-                    r'<td style="line-height:1.3em;">(?P<date>.*?)<'
+                    r'<td style="line-height:1.3em;">.*?(?P<year>\d{4}).*?<span style="display:none">'
                     r'.*?'
-                    r'Summary</th>.*?<td style="line-height:1.3em;">(?P<summary>.*?)</td>'
+                    r'Summary</th>.*?<td style="line-height:1.3em;">(?P<summary>.*?)<'
                     r'\s*?'    
                     r'.*?'
                     r'Passengers</th>.*?">(?P<passengers>\d+).*?</td>'
@@ -138,7 +138,18 @@ def all_data():
         i += 1
         #print(data)
     return list(chain.from_iterable(all_data))
-        
+
+def make_zipfile(output_filename, source_dir):
+    '''makes a zip file, containing all plane crash files'''
+    with zipfile.ZipFile(output_filename, "w", zipfile.ZIP_DEFLATED) as zip:
+        for root, dirs, files in os.walk(source_dir):     
+            for filename in files:
+                for i in range(1, 1138):
+                    if filename == 'crash-{}.html'.format(i):
+                        arcname = os.path.join(root, filename)
+                        zip.write(filename, arcname)
+                        os.remove('crash-{}.html'.format(i))
+                    i += 1
 ########################################################################
 # saving data to csv
 ########################################################################
