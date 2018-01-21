@@ -89,7 +89,38 @@ def search_block(plane_crash_file):
     block = rx.findall(page_contents)
     return block
 
-def data_from_one_url(plane_crash_block):
+def data_from_one_url1(plane_crash_block):
+    '''takes a string and extracts date, summary, operator of the plane, number of passengers, crew members, fatalities and survivors of
+    one plane crash'''
+    no_match = 0   
+    rx = re.compile(#r'style="padding-bottom:0.3em;">(?P<title>.*?)</caption>'   
+                    #r'.*?'
+                    #r'Date</th>.*?<td style="line-height:1.3em;"><.*?>.*?(?P<year>\d{4})</span>'
+                    #r'\s*?'    
+                    r'.*?'
+                    r'Passengers</th>.*?">(?P<passengers>\d+).*?</td>'
+                    r'.*?'
+                    r'Crew</th>.*?<td style="line-height:1.3em;">(?P<crew>\d+).*?</td>'
+                    r'.*?'
+                    r'Fatalities</th>.*?<td style="line-height:1.3em;">.*?(?P<fatalities>\d+).*?</td>'
+                    r'.*?'
+                    r'Survivors</th>.*?<td style="line-height:1.3em;">(?P<survivors>\d+).*?</td>'
+                    r'.*?'
+                    r'Operator</th>(.*?)<a href="(.*?)" title="(?P<operator>.*?)">',
+                    re.DOTALL)
+    
+    match = re.search(rx, plane_crash_block)
+    if match:
+        crash = match.groupdict()
+        crash['passengers'] = int(crash['passengers'])
+        crash['crew'] = int(crash['crew'])
+        crash['fatalities'] = int(crash['fatalities'])
+        crash['survivors'] = int(crash['survivors'])
+        return crash
+    else:
+        print('no match found')
+
+def data_from_one_url2(plane_crash_block):
     '''takes a string and extracts date, summary, operator of the plane, number of passengers, crew members, fatalities and survivors of
     one plane crash'''
     no_match = 0   
@@ -97,7 +128,7 @@ def data_from_one_url(plane_crash_block):
                     r'.*?'
                     r'<td style="line-height:1.3em;">.*?(?P<year>\d{4}).*?<span style="display:none">'
                     r'.*?'
-                    r'Summary</th>.*?<td style="line-height:1.3em;">(?P<summary>.*?)<'
+                    r'Summary</th>.*?<.*?title=".*?">(?P<summary>.*?)</a>'
                     r'\s*?'    
                     r'.*?'
                     r'Passengers</th>.*?">(?P<passengers>\d+).*?</td>'
@@ -122,10 +153,10 @@ def data_from_one_url(plane_crash_block):
     else:
         print('no match found')
         
-def block_from_file(filename):
+def block_from_file(filename, function):
     '''splits file into blocks and extracts data'''
     blocks = search_block(filename)
-    ads = [data_from_one_url(block) for block in blocks]
+    ads = [function(block) for block in blocks]
     return ads
 
 def all_data():
@@ -133,8 +164,12 @@ def all_data():
     all_data = []
     for i in range(1, len(all_urls) + 1):
         plane_crash_url = 'crash-{}.html'.format(i)
-        data = block_from_file(plane_crash_url)
-        all_data.append(data)
+        
+        data1 = block_from_file(plane_crash_url, data_from_one_url2)
+        all_data.append(data1)
+
+        data2 = block_from_file(plane_crash_url, data_from_one_url1)
+        all_data.append(data2)
         i += 1
         #print(data)
     return list(chain.from_iterable(all_data))
@@ -154,12 +189,13 @@ def make_zipfile(output_filename, source_dir):
 # saving data to csv
 ########################################################################
 
+
 def write_csv(directory, filename):
     '''Write a CSV file to directory/filename. The fieldnames must be a list of
     strings, the rows a list of dictionaries each mapping a fieldname to a
     cell-value.
     '''
-    fieldnames = ['title','year','summary','operator','passengers',
+    fieldnames = ['operator','passengers',
                  'crew','fatalities','survivors']
     rows = all_data()
     os.makedirs(directory, exist_ok=True)
